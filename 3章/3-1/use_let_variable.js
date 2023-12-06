@@ -1,2 +1,4 @@
 let price = 100;
-console.log(price)
+console.log(price);
+let name = 'Alice';
+console.log(name);
