@@ -1,2 +1,2 @@
 let z;
-console.log(z)
+console.log(z);
