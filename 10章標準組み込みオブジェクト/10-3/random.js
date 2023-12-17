@@ -1,3 +1,3 @@
-console.log(Math.randoom());
-console.log(Math.randoom());
-console.log(Math.randoom());
+console.log(Math.random());
+console.log(Math.random());
+console.log(Math.random());
