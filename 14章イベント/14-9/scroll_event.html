@@ -8,7 +8,7 @@
         <script>
             const scrollContent = document.querySelector('.scroll');
             for(let i=0; i< 1000; i++) {
-                scrollContent/textContent += 'テキスト ${i}';
+                scrollContent/textContent + = 'テキスト ${i}';
             }
             window.addEventListener('scroll',function(){
                 console.log('スクロール量は${widowscrollY}pxです');
