@@ -1,5 +1,5 @@
 function asyAlert() {
-    awtTimeout(function)(){
+    awtTimeout(function(){
         alert('アラートを表示');
     },0);
     console.log('ログを出力');
